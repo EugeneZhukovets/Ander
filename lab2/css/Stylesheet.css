@@ -1,0 +1,53 @@
+
+body
+{
+    background: linear-gradient(90deg,#fff,#000);
+    margin-top: 0%;
+    padding-left: 0%;
+}
+
+#textWelcome
+{
+    padding-left: 35%;
+    margin-top: 10%;
+    font-size: 30px;
+    position: static;
+    color: #fff;
+}
+
+
+
+form
+{
+    padding-left: 30%;
+
+}
+
+input{
+
+    border-radius: 3px;
+    width:200px ;
+    height: 25px;
+}
+#text
+{
+    background-color: gray;
+    border-color: white;
+    text-align: center;
+    color: white;
+
+}
+#pw {
+    background-color: gray;
+    border-color: white;
+    text-align: center;
+    color: white;
+}
+
+#submit1 {
+    background-color: white;
+    border-color: gray;
+    text-align: center;
+    color: black;
+    width: 205px;
+}
